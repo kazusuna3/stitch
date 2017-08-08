@@ -1,0 +1,23 @@
+# ptGui project file
+
+#-encoding utf8
+#-pathseparator /
+#-fileversion 49
+#-previewwidth 943
+#-defaultprojectfolder_custom ""
+#-previewheight 680
+#-vfov 55.31002807617188
+#-resolution 300
+#-fixaspect 1
+#-outputfile 
+
+
+#-defaultprojectfilename_custom "_P03_N
+
+#-defaultprojectfolder_custom "
+
+#-defaultpanoramafolder_custom "
+
+#-imgfile 5304 7952 "
+
+# Control points:
